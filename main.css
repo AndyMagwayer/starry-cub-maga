@@ -16,3 +16,13 @@ body,html{
     width: 100%;
     
   }
+
+  .wrapper {
+    height: 20vh;
+    display: flex;
+    
+  }
+  
+  svg {
+    margin: auto;
+  }
